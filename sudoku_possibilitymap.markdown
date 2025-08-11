@@ -1,3 +1,5 @@
+### Prompt for gork3
+
 can you use a possibility map to solve sudoku instead of brute force? like creating 9 2D arrary which is 9 by 9 in size and representing the possibility of 1 to 9 in the grid.
 
 ### Solving Sudoku with a Possibility Map
@@ -221,5 +223,6 @@ This reduces the number of guesses compared to the brute-force method, which tri
 - It still uses backtracking for tough puzzles, but the possibility map makes it smarter.
 - You can try a different puzzle by changing the `board` variable. Just make sure it’s a valid 9x9 grid with numbers 0 to 9.
 - If you want to see the possibility map at each step (like a debug mode), we can add print statements—just let me know!
+
 
 If you have another puzzle or want to tweak this (e.g., show the possibility map or solve a different way), tell me, and I’ll adjust the code!
