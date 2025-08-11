@@ -1,4 +1,4 @@
-
+### Prompt for gork3
 consider you are a programmer, please show me how you can using python to code and resolve the famous puzzle sudoku and explain your logic in a way to someone who do not know programing
 
 
@@ -158,5 +158,6 @@ I used a well-known Sudoku puzzle in the code above. Here's what it looks like w
 3 4 5 2 8 6 1 7 9  
 
 The computer tried different numbers, backtracked when stuck, and found this solution that follows all the rules.
+
 
 If you have a specific Sudoku puzzle, you can replace the numbers in the "board" part and run it yourself (there are free online Python runners like Replit). This code works for most puzzles, but very hard ones might take a second longer since the computer has to try more options. If you want to try another puzzle or tweak it, let me know!
